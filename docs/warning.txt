@@ -1,0 +1,10 @@
+ATTENTION! THIS IS AN UNOFFICIAL BUILD!
+
+You are using a modified version of the Resonance code.
+The build hash does not match the official one.
+THE DEVELOPER IS NOT RESPONSIBLE FOR POSSIBLE ISSUES DURING USE. For security reasons, downloading is disabled!
+
+Official sources:
+- GitHub: (add link)
+- CurseForge: (add link)
+- Modrinth: (add link)

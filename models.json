@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Gemma 2B (Q4_K_M)",
+        "file": "gemma-2-2b-it-Q4_K_M.gguf",
+        "url": "https://huggingface.co/RS-Games-Studio/gemma-2-2b-it-Q4_K_M.gguf/resolve/main/gemma-2-2b-it-Q4_K_M.gguf",
+        "size": 1710000000,
+        "sha256": "",
+        "info": "Стандартная модель. Самая быстрая. ~1.7 ГБ. Рекомендуется для 4-8 ГБ ОЗУ."
+    }
+]

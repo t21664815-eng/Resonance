@@ -1,0 +1,13 @@
+{
+  "resonance.ai.loading": "L'IA est en cours de chargement...",
+  "resonance.ai.error": "La réponse précédente est encore en cours de génération...",
+  "resonance.ai.thinking": "Génération de la réponse...",
+  "resonance.ai.connection_lost": "Connexion à l'IA perdue.",
+  "resonance.memory.saved": "Conversation sauvegardée.",
+  "resonance.memory.loaded": "Je me souviens de notre dernière conversation !",
+  "resonance.button.download": "Télécharger le modèle",
+  "resonance.button.installed": "Modèles installés",
+  "resonance.button.webui": "Ouvrir l'interface web",
+  "resonance.button.back": "Retour",
+  "resonance.button.play_anyway": "Laisser en arrière-plan"
+}

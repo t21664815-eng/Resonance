@@ -1,0 +1,13 @@
+{
+  "resonance.ai.loading": "ИИ ещё загружается...",
+  "resonance.ai.error": "Предыдущий ответ ещё генерируется...",
+  "resonance.ai.thinking": "Генерация ответа...",
+  "resonance.ai.connection_lost": "Связь с ИИ потеряна.",
+  "resonance.memory.saved": "Разговор сохранён.",
+  "resonance.memory.loaded": "Я помню наш прошлый разговор!",
+  "resonance.button.download": "Скачать модель",
+  "resonance.button.installed": "Установленные модели",
+  "resonance.button.webui": "Открыть веб-интерфейс",
+  "resonance.button.back": "Назад",
+  "resonance.button.play_anyway": "Оставить в фоне"
+}

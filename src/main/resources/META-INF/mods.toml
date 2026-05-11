@@ -1,0 +1,32 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="resonance"
+version="0.6.0"
+displayName="Resonance"
+authors="RS Games Studio (T1mur_Null)"
+description='''
+Local AI in Minecraft.
+No internet. No API keys. No servers.
+Just pure, offline artificial intelligence in your world.
+Powered by llama.cpp + Gemma.
+
+Discorde:
+GitHub:
+'''
+
+[[dependencies.resonance]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.resonance]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"

@@ -1,0 +1,13 @@
+{
+  "resonance.ai.loading": "AI is still loading...",
+  "resonance.ai.error": "Previous response still generating...",
+  "resonance.ai.thinking": "Generating response...",
+  "resonance.ai.connection_lost": "AI connection lost.",
+  "resonance.memory.saved": "Conversation saved.",
+  "resonance.memory.loaded": "I remember our last conversation!",
+  "resonance.button.download": "Download Model",
+  "resonance.button.installed": "Installed Models",
+  "resonance.button.webui": "Open Web UI",
+  "resonance.button.back": "Back",
+  "resonance.button.play_anyway": "Leave in background"
+}

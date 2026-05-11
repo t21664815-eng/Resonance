@@ -1,4 +1,4 @@
-# Resonance AI
+# Resonance
 
 Local AI in Minecraft. Single JAR. No setup.
 
@@ -8,7 +8,7 @@ Runs LLM models locally via llama.cpp. AI responds in chat. No internet. No API 
 
 ## Install
 
-1. Download JAR from [Releases](https://github.com) or [Modrinth](https://modrinth.com).
+1. Download JAR from [Releases](https://github.com/t21664815-eng/Resonance/releases) or [Modrinth](https://modrinth.com/mod/resonance).
 2. Place in your mods folder. Launch with Forge 47.2.20+.
 3. Click the AI button in the main menu and download your preferred model.
 4. Type "Helper, hello" in the game chat.
@@ -18,16 +18,17 @@ Runs LLM models locally via llama.cpp. AI responds in chat. No internet. No API 
 - Minecraft Version: 1.20.1
 - Mod Loader: Forge 47.2.20+
 - Java Version: Java 17+
-- RAM: 4 GB minimum (Free System RAM)
+- RAM: 4 GB minimum
 
-## Safety & Security
+## Safety
 
-- Local Isolation: Binds strictly to 127.0.0.1. No internet connection during inference.
-- Open Source Backend: Binaries from [llama.cpp](https://github.com) (MIT License).
-- VirusTotal: 0/100 detections (Clean).
-- Official Dataset: Models downloaded via official [Hugging Face](https://huggingface.co) repository.
-> **Note for developers:** The `src/main/resources/llama/` folder is excluded from the repository due to binary size limits. The official JAR release includes the binaries via Gradle build configuration.
+- Binds strictly to 127.0.0.1. No internet during inference.
+- Binaries from [llama.cpp](https://github.com/ggerganov/llama.cpp) (MIT License).
+- VirusTotal: 0 detections.
+- Models via official [Hugging Face](https://huggingface.co/RS-Games-Studio).
+
+> **Note:** The `src/main/resources/llama/` folder is excluded from the repository due to binary size limits. The official JAR release includes the binaries via Gradle build configuration.
 
 ## License
 
-Distributed under the MIT License. See LICENSE file for details.
+MIT. See [LICENSE](LICENSE).

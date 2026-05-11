@@ -26,6 +26,7 @@ Runs LLM models locally via llama.cpp. AI responds in chat. No internet. No API 
 - Open Source Backend: Binaries from [llama.cpp](https://github.com) (MIT License).
 - VirusTotal: 0/100 detections (Clean).
 - Official Dataset: Models downloaded via official [Hugging Face](https://huggingface.co) repository.
+> **Note for developers:** The `src/main/resources/llama/` folder is excluded from the repository due to binary size limits. The official JAR release includes the binaries via Gradle build configuration.
 
 ## License
 
